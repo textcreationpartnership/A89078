@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius urbanicus. Or, Newes from London and Westminster, and other parts. From Tuesday, May 2. to Tuesday, May 9. 1648. : The citizens their chaines advance ...</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89078</idno><idno type="EEBO-CITATION">45097854</idno>
+  <idno type="VID">171434</idno>
+  <idno type="EEBO-PROQUEST">2240878936</idno>
+  
+            <idno type="STC">Wing M1774</idno>
+            <idno type="STC">ESTC P1304</idno>
+            <idno type="OCLC">45097854</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89078)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171434)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2574:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius urbanicus. Or, Newes from London and Westminster, and other parts. From Tuesday, May 2. to Tuesday, May 9. 1648. : The citizens their chaines advance ...</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>printed 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171434:1"/>
+            <p> MERCƲRIƲS <hi>URBANICUS</hi>
+            </p>
+            <p>
+               <hi>OR, Newes from LONDON and WESTMINSTER, and other Parts.</hi>
+            </p>
+            <p>
+               <hi>From Tuesday,</hi> May 2. <hi>to Tuesday,</hi> May 9. 1648.</p>
+            <lg>
+               <l>The <hi>Citizens</hi> their Chaines advance,</l>
+               <l>To keepe king <hi>Thomas</hi> out;</l>
+               <l>I hope they will provide some Ropes</l>
+               <l>To hang him, and his <hi>Rout.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>King <hi>Cromwell</hi> into <hi>Wales</hi> is gone</l>
+               <l>To deale his angry blowes:</l>
+               <l>But valiant <hi>Poyer</hi> and his <hi>Boyes,</hi>
+               </l>
+               <l>Will cuffe his copper-nose.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Essex</hi>-Lyons Roaring came,</l>
+               <l>With such Majestick-power;</l>
+               <l>They made the <hi>Senate</hi> stinke for feare,</l>
+               <l>They would their bones devoure.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Rebell</hi>-States by jugling tricks</l>
+               <l>This Kingdom did undoe;</l>
+               <l>And now at last will run away,</l>
+               <l>And cheat the <hi>Gallowes</hi> too.</l>
+            </lg>
+            <q>Non est mortale quod opto.</q>
+            <p>
+               <hi>PRINTED</hi> 1648.</p>
+            <pb facs="tcp:171434:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171434:2"/>
+            <head>MERCURIUS URBANICUS.</head>
+            <p>ROome for another <hi>Mercurie,</hi> one of <hi>Joves</hi> own Messengers sent from his Royall Pallace <hi>Olym<g ref="char:EOLhyphen"/>pus,</hi> with a Whip in his hand in stead of a <hi>Ca<g ref="char:EOLhyphen"/>duceus,</hi> to jirke the <hi>State-Rebells</hi> at <hi>West<g ref="char:EOLhyphen"/>minster,</hi> and brand them with their owne deserved infamy, which may appeare in delible Characters to all succeeding ages: I hope I neede no Apollogy to excuse my intrusion; for there can never bee too many Satyres (noe not if all the Furyes in hell should come) to lash them for their most Pernicious &amp; most Rebellious Actions. And if the rest of the <hi>Mercuries</hi> will admit me into their fraternity, to make up a Competent number, wee'll sit and vote Treason with as much confidence against the two <hi>Houses;</hi> as they doe against their Lord and Soveraigne: But I think they have pretty well left that now, since they disgorg'd, themselves of their late Declaration wherein they vented so many notorious false and abusive scandalls a<g ref="char:EOLhyphen"/>gainst his <hi>Majesty,</hi> as none but the Devill (the Father of Lyes) or the House of Commons could have invented, and with such impudence have published against so excel<g ref="char:EOLhyphen"/>lent and so gracious a Prince: But certainly that Decla<g ref="char:EOLhyphen"/>ration was forged in Hell, whereof all the Members are fire-brands; And shortly I hope will adjourne thither, where I wish they may bee a Parliament everlasting; but
+<pb n="2" facs="tcp:171434:3"/> if they abuse the Devill and his Imps, as they have his <hi>Ma<g ref="char:EOLhyphen"/>jesty</hi> and the whole <hi>Kingdome;</hi> they will soone make him forsake his infernall Dominions, and leave them to reigne with as much Tyranny, over the damned there, as they have done over their Brethren and Fellow-Subjects here.</p>
+            <p>I doe admire the Common-Wealth will give nourish<g ref="char:EOLhyphen"/>ment any longer to these Gormandizing <hi>Caterpillers</hi> who have out of their hungry zeale almost devoured the whole Kingdome, so that wee may cry out with the <hi>Prophet; The zeale of the Houses hath even eaten us up;</hi> and yet their bottomles mawes are not half full, &amp; the more to aug<g ref="char:EOLhyphen"/>ment this distressed Kingdoms miseryes they have hatch't a Company of ravenous <hi>Kites</hi> to pick out the Kingdomes eyes; <hi>London</hi> hath had sufficient experience of the insolen<g ref="char:EOLhyphen"/>cye of these base Mechannicks, King, <hi>Copper-nose</hi> and his Fellowes; what secret wayes and stratagems they con<g ref="char:EOLhyphen"/>tinually invent and daily put in execution to inslave this honorable City.</p>
+            <lg>
+               <l>
+                  <hi>But er'e their hopes shall take effect, I hope</hi>
+               </l>
+               <l>
+                  <hi>To see their Roguships choaked in a Rope.</hi>
+               </l>
+            </lg>
+            <p>What is the meaning (thinke you) of their approach so neere the City, their fortifying of the <hi>Tower, White-Hall,</hi> and other places about the City? why nothing but only to give the great tax-bearing <hi>Cuckolds</hi> now and then a visit, and catch 'em by the mony; or perhaps to intreat the Hackney-Asses that they may ride them one Journey more downe to the <hi>Scotts,</hi> to prevent <hi>Jockeys</hi> coming into <hi>England</hi> for all our goods.</p>
+            <p>But the Citizens have done very wisely of late, by the advice of their grand Coxcombe <hi>Warner</hi> and the Com<g ref="char:EOLhyphen"/>mon
+<pb n="3" facs="tcp:171434:3"/> Cuckolds of the City; they have petitioned their Lords and Masters that there may bee a faire Correspon<g ref="char:EOLhyphen"/>dency kept betweene Knaves and Fooles and that they may have their Posts and Chaines set up again, and then as in duty bounden they shall pray &amp;c. sure Alderman <hi>Shit<g ref="char:EOLhyphen"/>breech</hi> moulded up this Petition out of some of the Frag<g ref="char:EOLhyphen"/>ments which were left in his Worships breeches when hee made the learned speech in the house of Commons to have their Privies emptied; for had there beene but one wise man amongst them, they would never have beg'd such Trifles; and suffer the main strength of the City (the <hi>Tower)</hi> to bee under the Command of those who daily wait to be their destruction; oh how sweet would a lit<g ref="char:EOLhyphen"/>tle of the Cities plunder bee, the Souldiers have a longing desire to taste; pray if there bee any Courtesie among Cuckolds let them make one meale amongst you, (the <hi>Parliament</hi> has made many) perhaps they may bee so kind as to leave your worships some shooing hornes in requitall to pull on your night-Caps withall.</p>
+            <p>So ho <hi>Oliver!</hi> whither away so fast; pray stay a lit<g ref="char:EOLhyphen"/>tle, I thinke you are angry, you looke as if you were, you are very red about the Beake; oh me! valiant <hi>Poyer</hi> hath most lamentably basted <hi>Flemming</hi> and his Fellow Rebells in <hi>Wales,</hi> nay and hath sent most of them to the Devill too, where you youre selfe must bee er'e long; And that's the matter you are in such haste now; you have a mind to taste some of the same sauce: never feare but you shall bee gallantly entertained by the valiant Collo<g ref="char:EOLhyphen"/>nell, hee hath one bit in powder for you too: come ne<g ref="char:EOLhyphen"/>ver make much adoe about your Artillery: <hi>Poyer</hi> dares meet you in the field on equall termes, but that hee feares you carry so much fire in your face you will blow up his Magazine with your nose; however carry it along with you, it may serve to light you in your way upon the Welsh-mountaines, but take heed you doe not set the
+<pb n="4" facs="tcp:171434:4"/> townes on fire with it as you passe thorow them; me thinks I heare what a Courteous farewell the Citizens gave you at your departure, they are glad you are got well out of the Towne, but they hope you will be hang'd ere you come in again: if there were any goodnesse in you, you would have taken black <hi>Tom</hi> with you too, it were better then to let him stay heere to be hang'd: for you have plaid the De<g ref="char:EOLhyphen"/>vills so long that the whole Kingdome is weary of you, the earth groanes with the burden of such unmercifull Tyrants: but the Countreys are resolved they'll indure it no longer; if you will not settle his <hi>Majesty</hi> in Ho<g ref="char:EOLhyphen"/>nour and Safety, they will; and if you will not ease them of their intollerable burdens, they will ease them<g ref="char:EOLhyphen"/>selves the <hi>Essex</hi> Lyons have an intent to devoure you, I see by their lookes they have a good stomack to you; they are resolved you shall Tyranize no longer.</p>
+            <p>Why how now Countreymen, what's the matter? What! Come to towne with a Petition: Pray how come you to bee so sensible of your sufferings? who whipt your eyes for you, that you begin to see how basely you have beene abused: I did thinke you would have beene perpetuall-slaves to those mercilesse Canniballs, and have suffered them to devoure you too, as they have done your estates long since: Foh! how the Houses begin to stinke, I smell them already, Oh! What a pickle are the poore fooles in; Lord what a qualme comes over their sto<g ref="char:EOLhyphen"/>macks, sure they have taken Phisick lately; I feare they'l Purge so fast this Moneth of <hi>May,</hi> they must bee forced to adjourne againe shortly to have their Privies empti<g ref="char:EOLhyphen"/>ed once more; What blustring weather is here in the Common-wealth this moneth? Such stormes as I thinke neither <hi>Lilly</hi> nor <hi>Booker</hi> nor any of the rest of the State-Mountebankes were aware of: Sure the Parliament will not put to Sea in such tempestnous weather, but yet ne<g ref="char:EOLhyphen"/>cessity hath no Law: They must trust the mercy of the
+<pb n="5" facs="tcp:171434:4"/> Seas, who have deserved none from their Prince: But is there no honestie left amongst you, will you never leave Jugling? Now you have Cozened the whole Kingdome, will you cheate the Gallowes too at last? Pray stay and take your wages with you, 't were great injustice you should worke mischiefe seven yeeres together for no<g ref="char:EOLhyphen"/>thing; and venture your necks too, and not weare the halter: If Charity bee growne so cold amongst the Citi<g ref="char:EOLhyphen"/>zens, that they will not bestow ropes upon you, I beleeve the Countrey will, if you dare stay to take them: But since you must needes pack up and bee gone, pray give mee leave to bid you and your Tribe Farewell.</p>
+            <lg>
+               <l>Goe cursed Rebells, with your ill-got store,</l>
+               <l>To some remote and unknown barren Shore,</l>
+               <l>Where nought but rav'ning Wolves (like you) may be,</l>
+               <l>To beare the burden of your cruelty.</l>
+               <l>Let not the <hi>Sonne,</hi> to you, one cheerfull Ray</l>
+               <l>Afford; unlesse upon your hanging-Day;</l>
+               <l>Nor yet let Night, your cursed Actions, hide;</l>
+               <l>vntill they bee to all the World descry'd:</l>
+               <l>But let your borrid Treasons, Murthers, Rapes</l>
+               <l>And Perjuries, in most deformed Shapes,</l>
+               <l>Affright your guilty Soules, till all of you</l>
+               <l>Truly Repent; then Gallowes claim thy due.</l>
+            </lg>
+            <pb n="6" facs="tcp:171434:5"/>
+            <p> So! now farewell and bee hang'd, since wee must part, better heere then at the Gallowes: but good Master Speaker, if it bee your fortune to bee hang'd first for you deserved it long agoe, though you did never use any honesty in your life, nor could ever afford your Neighboures their just due; yet pray use a lit<g ref="char:EOLhyphen"/>tle at your death, and let the Devill have his: and so desire all the rest of your fellow Rebells to doe.</p>
+            <lg>
+               <l>That when your Soules do fry in endlesse; pain;</l>
+               <l>Wee may injoy our Royall King again.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
